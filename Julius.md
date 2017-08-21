@@ -95,5 +95,5 @@ tar xvzf ~/grammar-kit-v4.1.tar.gz
 
 ### Reference
 [1] http://cubic9.com/Devel/%C5%C5%BB%D2%B9%A9%BA%EE/RaspberryPi/%C6%FC%CB%DC%B8%EC%B2%BB%C0%BC%C7%A7%BC%B1/  
-[2] https://teratail.com/questions/35410
-[3] http://suen-study.blogspot.jp/2014/02/usbusbarecordaplay.html
+[2] https://teratail.com/questions/35410  
+[3] http://suen-study.blogspot.jp/2014/02/usbusbarecordaplay.html  
