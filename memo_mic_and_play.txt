@@ -1,0 +1,6 @@
+lsusb
+cat /proc/asound/modules
+sudo vi /etc/modprobe.d/alsa-base.conf
+arecord -r 44100 -f S16_LE test.wav
+aplay -D plughw:0,0 test.wav
+
